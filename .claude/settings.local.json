@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p c:/Users/inemo/Desktop/CLAUDE_PROJECT/SeasonPlay/.claude/plans)",
+      "Bash(mkdir -p c:/Users/inemo/Desktop/CLAUDE_PROJECT/SeasonPlay/90_DOCUMENT/01_開発ドキュメント)",
+      "Bash(mkdir -p c:/Users/inemo/Desktop/CLAUDE_PROJECT/SeasonPlay/90_DOCUMENT/10_DB/SQL)",
+      "Bash(mkdir -p c:/Users/inemo/Desktop/CLAUDE_PROJECT/SeasonPlay/90_DOCUMENT/10_DB/クエリ)",
+      "Bash(mkdir -p c:/Users/inemo/Desktop/CLAUDE_PROJECT/SeasonPlay/90_DOCUMENT/10_DB/テーブル)",
+      "Bash(mkdir -p c:/Users/inemo/Desktop/CLAUDE_PROJECT/SeasonPlay/.claude/skills)",
+      "Bash(mv c:/Users/inemo/Desktop/CLAUDE_PROJECT/SeasonPlay/.claude/commands/implementation.md c:/Users/inemo/Desktop/CLAUDE_PROJECT/SeasonPlay/.claude/skills/implementation.md)",
+      "Bash(mkdir -p c:/Users/inemo/Desktop/CLAUDE_PROJECT/SeasonPlay/.claude/skills/implementation)",
+      "Bash(rm c:/Users/inemo/Desktop/CLAUDE_PROJECT/SeasonPlay/.claude/skills/implementation.md)"
+    ]
+  }
+}
